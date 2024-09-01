@@ -15,7 +15,7 @@ def scrape_category(category_url, output_file, max_items, top_category_name, mid
     driver.get(category_url)
 
     # 5초 동안 대기
-    time.sleep(5)
+    time.sleep(3)
 
     # Esc 키를 눌러 팝업 닫기 시도
     try:
@@ -50,16 +50,14 @@ def scrape_category(category_url, output_file, max_items, top_category_name, mid
             # 브랜드, 이름 데이터 추출
             brand = item.find_element(By.CSS_SELECTOR, "p.product__data-brand").text
             name = item.find_element(By.CSS_SELECTOR, "p.product__data-name").text
-            
-            # 이름에서 용량 정보 분리
-            try:
-                # 이름에서 'ml'이 포함된 경우에만 용량을 추출
-                if "ml" in name.lower():
-                    volume = [word for word in name.split() if "ml" in word.lower()][0]
-                else:
-                    volume = "N/A"
-            except IndexError:
-                volume = "N/A"
+                
+            # 이름에서 용량 정보 분리 (ml, L, g, kg)
+            # 이름에서 용량 정보 분리 (ml, L, g, kg)
+            volume = "N/A"
+            for word in name.split():
+                if any(unit in word.lower() for unit in ["ml", "l", "g", "kg"]):
+                    volume = word
+                    break
             
             # 가격과 할인율 데이터 추출
             try:

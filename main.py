@@ -1,24 +1,29 @@
 import os
 from perfume import scrape_category
-from categories import categories
+from beauty import beauty
 
 def main():
-    
-
     # 각 카테고리에 대해 크롤링을 실행하고 데이터를 저장합니다.
-    for category in categories:
+    for category in beauty:
         # 디렉토리 경로를 카테고리 구조에 따라 유동적으로 생성
-        directory_parts = [category['top_category_name'], category['middle_category_name'], category['bottom_category_name']]
+        directory_parts = [
+            category['top_category_name'].replace("/", "_"),
+            category['middle_category_name'].replace("/", "_"),
+            category['bottom_category_name'].replace("/", "_")
+        ]
         if category['sub_category_name']:
-            directory_parts.append(category['sub_category_name'])
+            directory_parts.append(category['sub_category_name'].replace("/", "_"))
 
-        directory_path = os.path.join(*directory_parts).replace(" ", "_")
+        # 마지막 부분을 파일 이름으로 추출하고, 디렉토리 경로에서 제거
+        file_name_part = directory_parts.pop()  # 마지막 항목을 추출하여 파일 이름으로 사용
+        directory_path = os.path.join(*directory_parts)
         
         # 디렉토리가 존재하지 않으면 생성
         os.makedirs(directory_path, exist_ok=True)
         
-        # 파일 이름을 sub_category_name 또는 bottom_category_name으로 설정
-        output_file = os.path.join(directory_path, f"{category['sub_category_name'] or category['bottom_category_name'].replace(' ', '_')}.csv")
+        # 파일 이름을 설정 (파일 이름에서 `_`를 다시 `/`로 변경)
+        file_name = file_name_part.replace('_', '_')
+        output_file = os.path.join(directory_path, f"{file_name}.csv")
         
         print(f"Scraping category: {category['bottom_category_name']}")
         
