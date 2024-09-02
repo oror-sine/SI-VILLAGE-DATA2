@@ -15,10 +15,10 @@ def get_categories():
         disp_ctg_no = top_category.get("data-disp_ctg_no")
         disp_clss_cd = top_category.get("data-disp_clss_cd")
         categories.extend(get_sub_categories(disp_ctg_no, disp_clss_cd))
-        
+
     print(f"총 카테고리 수: {len(categories)}")
-    
-    with open('categories.py', 'w', encoding='utf-8') as f:
+
+    with open("categories.py", "w", encoding="utf-8") as f:
         f.write(f"categories={categories}")
 
 
@@ -74,6 +74,10 @@ def get_sub_categories(top_ctg_no, disp_clss_cd):
 
     if not os.path.exists("./categories"):
         os.mkdir("./categories")
+
+    if not os.path.exists("./categories/__init__.py"):
+        with open("./categories/__init__.py", "w", encoding="utf-8") as f:
+            f.write("")
 
     trimed_top_category_name = top_category and top_category.text.replace("/", "_")
 
