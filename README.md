@@ -1,6 +1,6 @@
 # SI-VILLAGE-DATA2
 
-아래 명령어로 패키지 설치 후 진행해주세요
+아래 명령어로 패키지 설치 후 진행해주세요  
 pip install -r requirements.txt
 
 # 역할 배분
