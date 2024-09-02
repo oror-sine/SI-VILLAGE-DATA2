@@ -42,7 +42,7 @@ def get_sub_categories(top_ctg_no, disp_clss_cd):
 
             tmp = []
 
-            for small in big.select("ul.list-small > li"):
+            for small in medium.select("ul.list-small > li"):
                 sub_category = small.select_one("a")
                 sub_category_name = sub_category and sub_category.text
                 disp_ctg_no = sub_category and sub_category.get("data-disp_ctg_no")
