@@ -1,0 +1,3585 @@
+[
+  {
+    "categoryName": "뷰티",
+    "subCategories": [
+      {
+        "categoryName": "향수",
+        "subCategories": [
+          {
+            "categoryName": "오 드 뚜왈렛"
+          },
+          {
+            "categoryName": "오 드 퍼퓸"
+          },
+          {
+            "categoryName": "코롱"
+          },
+          {
+            "categoryName": "기타 향수"
+          },
+          {
+            "categoryName": "헤어 퍼퓸"
+          }
+        ]
+      },
+      {
+        "categoryName": "스킨케어",
+        "subCategories": [
+          {
+            "categoryName": "스킨/토너/미스트",
+            "subCategories": [
+              {
+                "categoryName": "토너"
+              },
+              {
+                "categoryName": "토너 패드"
+              },
+              {
+                "categoryName": "미스트"
+              }
+            ]
+          },
+          {
+            "categoryName": "로션/에멀전/크림",
+            "subCategories": [
+              {
+                "categoryName": "수분/영양"
+              },
+              {
+                "categoryName": "안티에이징"
+              },
+              {
+                "categoryName": "민감성/진정"
+              },
+              {
+                "categoryName": "화이트닝"
+              },
+              {
+                "categoryName": "모공케어"
+              },
+              {
+                "categoryName": "부스터"
+              }
+            ]
+          },
+          {
+            "categoryName": "에센스/세럼/앰플",
+            "subCategories": [
+              {
+                "categoryName": "수분/영양"
+              },
+              {
+                "categoryName": "안티에이징"
+              },
+              {
+                "categoryName": "민감성/진정"
+              },
+              {
+                "categoryName": "화이트닝"
+              },
+              {
+                "categoryName": "모공케어"
+              },
+              {
+                "categoryName": "부스터"
+              }
+            ]
+          },
+          {
+            "categoryName": "아이/넥 케어",
+            "subCategories": [
+              {
+                "categoryName": "크림/밤"
+              },
+              {
+                "categoryName": "에센스/세럼"
+              },
+              {
+                "categoryName": "마스크/패치"
+              }
+            ]
+          },
+          {
+            "categoryName": "마스크/팩",
+            "subCategories": [
+              {
+                "categoryName": "시트팩"
+              },
+              {
+                "categoryName": "토너 패드"
+              },
+              {
+                "categoryName": "페이셜 팩"
+              },
+              {
+                "categoryName": "기타"
+              }
+            ]
+          },
+          {
+            "categoryName": "클렌저/스크럽",
+            "subCategories": [
+              {
+                "categoryName": "폼/젤"
+              },
+              {
+                "categoryName": "오일/워터/밤"
+              },
+              {
+                "categoryName": "아이/립 리무버"
+              },
+              {
+                "categoryName": "페이셜 솝"
+              },
+              {
+                "categoryName": "스크럽/필링"
+              },
+              {
+                "categoryName": "티슈"
+              },
+              {
+                "categoryName": "기타"
+              }
+            ]
+          },
+          {
+            "categoryName": "선케어"
+          },
+          {
+            "categoryName": "기타",
+            "subCategories": [
+              {
+                "categoryName": "기타 스킨케어"
+              },
+              {
+                "categoryName": "스킨케어 세트"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categoryName": "메이크업",
+        "subCategories": [
+          {
+            "categoryName": "페이스 메이크업",
+            "subCategories": [
+              {
+                "categoryName": "메이크업 베이스"
+              },
+              {
+                "categoryName": "파운데이션"
+              },
+              {
+                "categoryName": "컨실러"
+              },
+              {
+                "categoryName": "파우더/팩트/쿠션"
+              }
+            ]
+          },
+          {
+            "categoryName": "립 메이크업",
+            "subCategories": [
+              {
+                "categoryName": "립스틱"
+              },
+              {
+                "categoryName": "립틴트/립글로스"
+              },
+              {
+                "categoryName": "립케어"
+              }
+            ]
+          },
+          {
+            "categoryName": "아이 메이크업",
+            "subCategories": [
+              {
+                "categoryName": "마스카라"
+              },
+              {
+                "categoryName": "아이라이너"
+              },
+              {
+                "categoryName": "아이브로우"
+              },
+              {
+                "categoryName": "아이섀도우"
+              }
+            ]
+          },
+          {
+            "categoryName": "치크/하이라이터/쉐이딩",
+            "subCategories": [
+              {
+                "categoryName": "블러쉬"
+              },
+              {
+                "categoryName": "하이라이터"
+              },
+              {
+                "categoryName": "쉐이딩/컨투어"
+              }
+            ]
+          },
+          {
+            "categoryName": "네일케어",
+            "subCategories": [
+              {
+                "categoryName": "네일 폴리쉬"
+              },
+              {
+                "categoryName": "트리트먼트/오일"
+              }
+            ]
+          },
+          {
+            "categoryName": "메이크업 소품",
+            "subCategories": [
+              {
+                "categoryName": "브러쉬/툴"
+              },
+              {
+                "categoryName": "퍼프"
+              },
+              {
+                "categoryName": "기타"
+              }
+            ]
+          },
+          {
+            "categoryName": "기타"
+          }
+        ]
+      },
+      {
+        "categoryName": "바디케어",
+        "subCategories": [
+          {
+            "categoryName": "워시/스크럽",
+            "subCategories": [
+              {
+                "categoryName": "워시/젤"
+              },
+              {
+                "categoryName": "스크럽"
+              },
+              {
+                "categoryName": "비누/솝"
+              }
+            ]
+          },
+          {
+            "categoryName": "로션/크림/오일",
+            "subCategories": [
+              {
+                "categoryName": "로션/크림"
+              },
+              {
+                "categoryName": "오일"
+              },
+              {
+                "categoryName": "미스트"
+              }
+            ]
+          },
+          {
+            "categoryName": "입욕제"
+          },
+          {
+            "categoryName": "핸드/풋케어",
+            "subCategories": [
+              {
+                "categoryName": "핸드크림"
+              },
+              {
+                "categoryName": "핸드워시"
+              },
+              {
+                "categoryName": "풋케어"
+              }
+            ]
+          },
+          {
+            "categoryName": "넥/바스트케어"
+          },
+          {
+            "categoryName": "기타",
+            "subCategories": [
+              {
+                "categoryName": "바디케어 세트"
+              },
+              {
+                "categoryName": "핸드케어 세트"
+              },
+              {
+                "categoryName": "기타 바디케어"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categoryName": "헤어케어",
+        "subCategories": [
+          {
+            "categoryName": "샴푸/컨디셔너",
+            "subCategories": [
+              {
+                "categoryName": "샴푸"
+              },
+              {
+                "categoryName": "컨디셔너"
+              }
+            ]
+          },
+          {
+            "categoryName": "트리트먼트/팩",
+            "subCategories": [
+              {
+                "categoryName": "트리트먼트"
+              },
+              {
+                "categoryName": "마스크 팩"
+              }
+            ]
+          },
+          {
+            "categoryName": "에센스/오일/미스트",
+            "subCategories": [
+              {
+                "categoryName": "에센스"
+              },
+              {
+                "categoryName": "오일"
+              },
+              {
+                "categoryName": "미스트/퍼퓸"
+              }
+            ]
+          },
+          {
+            "categoryName": "스케일링/클리닉",
+            "subCategories": [
+              {
+                "categoryName": "스케일링"
+              },
+              {
+                "categoryName": "헤어토닉"
+              }
+            ]
+          },
+          {
+            "categoryName": "스타일링",
+            "subCategories": [
+              {
+                "categoryName": "크림"
+              },
+              {
+                "categoryName": "스프레이"
+              },
+              {
+                "categoryName": "왁스"
+              }
+            ]
+          },
+          {
+            "categoryName": "기타",
+            "subCategories": [
+              {
+                "categoryName": "헤어케어 세트"
+              },
+              {
+                "categoryName": "기타 헤어케어"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categoryName": "맨즈케어",
+        "subCategories": [
+          {
+            "categoryName": "클렌징/쉐이빙"
+          },
+          {
+            "categoryName": "스킨케어"
+          },
+          {
+            "categoryName": "메이크업"
+          },
+          {
+            "categoryName": "헤어/바디케어"
+          },
+          {
+            "categoryName": "선케어"
+          },
+          {
+            "categoryName": "기타"
+          }
+        ]
+      },
+      {
+        "categoryName": "맘/베이비",
+        "subCategories": [
+          {
+            "categoryName": "맘케어",
+            "subCategories": [
+              {
+                "categoryName": "크림/오일"
+              }
+            ]
+          },
+          {
+            "categoryName": "베이비케어",
+            "subCategories": [
+              {
+                "categoryName": "스킨/바디케어"
+              },
+              {
+                "categoryName": "선케어"
+              },
+              {
+                "categoryName": "헤어케어"
+              }
+            ]
+          },
+          {
+            "categoryName": "기타"
+          }
+        ]
+      },
+      {
+        "categoryName": "홈 프래그런스",
+        "subCategories": [
+          {
+            "categoryName": "캔들"
+          },
+          {
+            "categoryName": "디퓨저"
+          },
+          {
+            "categoryName": "방향제"
+          },
+          {
+            "categoryName": "룸스프레이"
+          },
+          {
+            "categoryName": "기타"
+          }
+        ]
+      },
+      {
+        "categoryName": "뷰티소품/기기",
+        "subCategories": [
+          {
+            "categoryName": "페이셜케어",
+            "subCategories": [
+              {
+                "categoryName": "페이셜 소품"
+              },
+              {
+                "categoryName": "페이셜 디바이스"
+              },
+              {
+                "categoryName": "기타"
+              }
+            ]
+          },
+          {
+            "categoryName": "메이크업",
+            "subCategories": [
+              {
+                "categoryName": "브러쉬/툴"
+              },
+              {
+                "categoryName": "퍼프류"
+              },
+              {
+                "categoryName": "메이크업 디바이스"
+              },
+              {
+                "categoryName": "기타"
+              }
+            ]
+          },
+          {
+            "categoryName": "바디케어",
+            "subCategories": [
+              {
+                "categoryName": "마사지 툴"
+              },
+              {
+                "categoryName": "바디 디바이스"
+              },
+              {
+                "categoryName": "기타"
+              }
+            ]
+          },
+          {
+            "categoryName": "헤어케어",
+            "subCategories": [
+              {
+                "categoryName": "브러쉬"
+              },
+              {
+                "categoryName": "헤어 소품"
+              },
+              {
+                "categoryName": "헤어 악세서리"
+              },
+              {
+                "categoryName": "헤어 디바이스"
+              },
+              {
+                "categoryName": "기타"
+              }
+            ]
+          },
+          {
+            "categoryName": "기타"
+          }
+        ]
+      },
+      {
+        "categoryName": "이너뷰티",
+        "subCategories": [
+          {
+            "categoryName": "건강식품",
+            "subCategories": [
+              {
+                "categoryName": "영양제"
+              },
+              {
+                "categoryName": "비타민"
+              },
+              {
+                "categoryName": "유산균"
+              }
+            ]
+          },
+          {
+            "categoryName": "다이어트/보조제"
+          },
+          {
+            "categoryName": "기타"
+          }
+        ]
+      },
+      {
+        "categoryName": "라이프케어",
+        "subCategories": [
+          {
+            "categoryName": "덴탈케어",
+            "subCategories": [
+              {
+                "categoryName": "치약"
+              },
+              {
+                "categoryName": "칫솔/치실"
+              },
+              {
+                "categoryName": "구강청결"
+              }
+            ]
+          },
+          {
+            "categoryName": "위생용품",
+            "subCategories": [
+              {
+                "categoryName": "생리대"
+              },
+              {
+                "categoryName": "청결제"
+              }
+            ]
+          },
+          {
+            "categoryName": "반려용품/식품"
+          },
+          {
+            "categoryName": "기타"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryName": "여성의류",
+    "subCategories": [
+      {
+        "categoryName": "아우터",
+        "subCategories": [
+          {
+            "categoryName": "자켓",
+            "subCategories": [
+              {
+                "categoryName": "블레이저/테일러드"
+              },
+              {
+                "categoryName": "블루종/봄버"
+              },
+              {
+                "categoryName": "데님"
+              },
+              {
+                "categoryName": "레더/바이커"
+              },
+              {
+                "categoryName": "크롭드/트위드"
+              },
+              {
+                "categoryName": "기타"
+              }
+            ]
+          },
+          {
+            "categoryName": "점퍼",
+            "subCategories": [
+              {
+                "categoryName": "사파리/야상"
+              },
+              {
+                "categoryName": "바람막이/아노락"
+              },
+              {
+                "categoryName": "캐주얼/기타"
+              }
+            ]
+          },
+          {
+            "categoryName": "베스트"
+          },
+          {
+            "categoryName": "코트",
+            "subCategories": [
+              {
+                "categoryName": "맥/트렌치"
+              },
+              {
+                "categoryName": "H라인/오버핏"
+              },
+              {
+                "categoryName": "벨티드/케이프"
+              },
+              {
+                "categoryName": "더블/피코트"
+              }
+            ]
+          },
+          {
+            "categoryName": "다운/패딩",
+            "subCategories": [
+              {
+                "categoryName": "퀼팅/경량"
+              },
+              {
+                "categoryName": "롱/헤비"
+              },
+              {
+                "categoryName": "숏/미디"
+              },
+              {
+                "categoryName": "베스트"
+              },
+              {
+                "categoryName": "기능성"
+              }
+            ]
+          },
+          {
+            "categoryName": "퍼/무스탕",
+            "subCategories": [
+              {
+                "categoryName": "리얼퍼"
+              },
+              {
+                "categoryName": "기타"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categoryName": "드레스/점프수트",
+        "subCategories": [
+          {
+            "categoryName": "롱슬리브"
+          },
+          {
+            "categoryName": "숏슬리브"
+          },
+          {
+            "categoryName": "슬리브리스"
+          },
+          {
+            "categoryName": "점프수트/오버롤"
+          }
+        ]
+      },
+      {
+        "categoryName": "블라우스/셔츠",
+        "subCategories": [
+          {
+            "categoryName": "롱슬리브"
+          },
+          {
+            "categoryName": "숏슬리브"
+          },
+          {
+            "categoryName": "슬리브리스"
+          }
+        ]
+      },
+      {
+        "categoryName": "티셔츠",
+        "subCategories": [
+          {
+            "categoryName": "롱슬리브"
+          },
+          {
+            "categoryName": "숏슬리브"
+          },
+          {
+            "categoryName": "슬리브리스"
+          },
+          {
+            "categoryName": "카라형/폴로"
+          }
+        ]
+      },
+      {
+        "categoryName": "맨투맨/후디",
+        "subCategories": [
+          {
+            "categoryName": "맨투맨"
+          },
+          {
+            "categoryName": "후디"
+          },
+          {
+            "categoryName": "집업"
+          }
+        ]
+      },
+      {
+        "categoryName": "니트",
+        "subCategories": [
+          {
+            "categoryName": "가디건/집업",
+            "subCategories": [
+              {
+                "categoryName": "가디건"
+              },
+              {
+                "categoryName": "집업"
+              }
+            ]
+          },
+          {
+            "categoryName": "풀오버",
+            "subCategories": [
+              {
+                "categoryName": "라운드/V넥"
+              },
+              {
+                "categoryName": "카라형/폴로"
+              },
+              {
+                "categoryName": "터틀넥"
+              },
+              {
+                "categoryName": "기타"
+              }
+            ]
+          },
+          {
+            "categoryName": "베스트"
+          },
+          {
+            "categoryName": "하의"
+          },
+          {
+            "categoryName": "원피스"
+          },
+          {
+            "categoryName": "세트"
+          }
+        ]
+      },
+      {
+        "categoryName": "스커트",
+        "subCategories": [
+          {
+            "categoryName": "롱/맥시"
+          },
+          {
+            "categoryName": "미디"
+          },
+          {
+            "categoryName": "미니"
+          },
+          {
+            "categoryName": "스웻/밴딩"
+          }
+        ]
+      },
+      {
+        "categoryName": "팬츠",
+        "subCategories": [
+          {
+            "categoryName": "슬랙스"
+          },
+          {
+            "categoryName": "조거/트랙/스웻"
+          },
+          {
+            "categoryName": "치노"
+          },
+          {
+            "categoryName": "하프/숏"
+          },
+          {
+            "categoryName": "레깅스"
+          }
+        ]
+      },
+      {
+        "categoryName": "데님",
+        "subCategories": [
+          {
+            "categoryName": "스키니"
+          },
+          {
+            "categoryName": "슬림/스트레이트"
+          },
+          {
+            "categoryName": "와이드"
+          },
+          {
+            "categoryName": "배기/조거"
+          },
+          {
+            "categoryName": "부츠컷"
+          },
+          {
+            "categoryName": "하프/숏"
+          },
+          {
+            "categoryName": "원피스"
+          },
+          {
+            "categoryName": "스커트"
+          }
+        ]
+      },
+      {
+        "categoryName": "수트/셋업",
+        "subCategories": [
+          {
+            "categoryName": "수트/셋업"
+          },
+          {
+            "categoryName": "상의"
+          },
+          {
+            "categoryName": "하의"
+          }
+        ]
+      },
+      {
+        "categoryName": "라운지/파자마",
+        "subCategories": [
+          {
+            "categoryName": "로브/가운"
+          },
+          {
+            "categoryName": "파자마 세트"
+          },
+          {
+            "categoryName": "파자마 상의"
+          },
+          {
+            "categoryName": "파자마 하의"
+          },
+          {
+            "categoryName": "파자마 원피스"
+          },
+          {
+            "categoryName": "라운지 세트"
+          },
+          {
+            "categoryName": "라운지 상의"
+          },
+          {
+            "categoryName": "라운지 하의"
+          },
+          {
+            "categoryName": "라운지 원피스"
+          },
+          {
+            "categoryName": "기타"
+          }
+        ]
+      },
+      {
+        "categoryName": "언더웨어",
+        "subCategories": [
+          {
+            "categoryName": "세트"
+          },
+          {
+            "categoryName": "브라/탑"
+          },
+          {
+            "categoryName": "팬티/드로즈"
+          },
+          {
+            "categoryName": "기능성/보정"
+          },
+          {
+            "categoryName": "슬립/원피스"
+          },
+          {
+            "categoryName": "캐미솔"
+          },
+          {
+            "categoryName": "속바지/속치마"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryName": "남성의류",
+    "subCategories": [
+      {
+        "categoryName": "아우터",
+        "subCategories": [
+          {
+            "categoryName": "자켓",
+            "subCategories": [
+              {
+                "categoryName": "블레이저/테일러드"
+              },
+              {
+                "categoryName": "블루종/봄버"
+              },
+              {
+                "categoryName": "데님"
+              },
+              {
+                "categoryName": "레더/바이커"
+              },
+              {
+                "categoryName": "기타"
+              }
+            ]
+          },
+          {
+            "categoryName": "점퍼",
+            "subCategories": [
+              {
+                "categoryName": "사파리/야상"
+              },
+              {
+                "categoryName": "바람막이/아노락"
+              },
+              {
+                "categoryName": "캐주얼/기타"
+              }
+            ]
+          },
+          {
+            "categoryName": "베스트"
+          },
+          {
+            "categoryName": "코트",
+            "subCategories": [
+              {
+                "categoryName": "맥/트렌치"
+              },
+              {
+                "categoryName": "더플/피코트"
+              },
+              {
+                "categoryName": "더블브레스티드"
+              }
+            ]
+          },
+          {
+            "categoryName": "다운/패딩",
+            "subCategories": [
+              {
+                "categoryName": "롱/헤비"
+              },
+              {
+                "categoryName": "숏/미디"
+              },
+              {
+                "categoryName": "퀼팅/경량"
+              },
+              {
+                "categoryName": "베스트"
+              },
+              {
+                "categoryName": "기능성"
+              }
+            ]
+          },
+          {
+            "categoryName": "퍼/무스탕",
+            "subCategories": [
+              {
+                "categoryName": "리얼퍼"
+              },
+              {
+                "categoryName": "기타"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categoryName": "수트/셋업",
+        "subCategories": [
+          {
+            "categoryName": "수트/셋업"
+          },
+          {
+            "categoryName": "자켓"
+          },
+          {
+            "categoryName": "베스트"
+          },
+          {
+            "categoryName": "팬츠"
+          }
+        ]
+      },
+      {
+        "categoryName": "니트",
+        "subCategories": [
+          {
+            "categoryName": "가디건/집업",
+            "subCategories": [
+              {
+                "categoryName": "가디건"
+              },
+              {
+                "categoryName": "집업"
+              }
+            ]
+          },
+          {
+            "categoryName": "풀오버",
+            "subCategories": [
+              {
+                "categoryName": "라운드/V넥"
+              },
+              {
+                "categoryName": "카라형/폴로"
+              },
+              {
+                "categoryName": "터틀넥"
+              },
+              {
+                "categoryName": "기타"
+              }
+            ]
+          },
+          {
+            "categoryName": "베스트"
+          },
+          {
+            "categoryName": "하의"
+          }
+        ]
+      },
+      {
+        "categoryName": "셔츠",
+        "subCategories": [
+          {
+            "categoryName": "캐주얼 롱슬리브"
+          },
+          {
+            "categoryName": "캐주얼 숏슬리브"
+          },
+          {
+            "categoryName": "포멀 롱슬리브"
+          },
+          {
+            "categoryName": "포멀 숏슬리브"
+          },
+          {
+            "categoryName": "슬리브리스"
+          }
+        ]
+      },
+      {
+        "categoryName": "티셔츠",
+        "subCategories": [
+          {
+            "categoryName": "롱슬리브"
+          },
+          {
+            "categoryName": "숏슬리브"
+          },
+          {
+            "categoryName": "슬리브리스"
+          },
+          {
+            "categoryName": "카라형/폴로"
+          }
+        ]
+      },
+      {
+        "categoryName": "맨투맨/후디",
+        "subCategories": [
+          {
+            "categoryName": "맨투맨"
+          },
+          {
+            "categoryName": "후디"
+          },
+          {
+            "categoryName": "집업"
+          }
+        ]
+      },
+      {
+        "categoryName": "팬츠",
+        "subCategories": [
+          {
+            "categoryName": "슬랙스"
+          },
+          {
+            "categoryName": "치노"
+          },
+          {
+            "categoryName": "하프/숏"
+          },
+          {
+            "categoryName": "조거/트랙/스웻"
+          },
+          {
+            "categoryName": "레깅스"
+          }
+        ]
+      },
+      {
+        "categoryName": "데님",
+        "subCategories": [
+          {
+            "categoryName": "스키니"
+          },
+          {
+            "categoryName": "슬림/스트레이트"
+          },
+          {
+            "categoryName": "와이드"
+          },
+          {
+            "categoryName": "배기/조거"
+          },
+          {
+            "categoryName": "하프/숏"
+          }
+        ]
+      },
+      {
+        "categoryName": "라운지/파자마",
+        "subCategories": [
+          {
+            "categoryName": "로브/가운"
+          },
+          {
+            "categoryName": "라운지 상의"
+          },
+          {
+            "categoryName": "라운지 세트"
+          },
+          {
+            "categoryName": "라운지 하의"
+          },
+          {
+            "categoryName": "파자마 상의"
+          },
+          {
+            "categoryName": "파자마 세트"
+          },
+          {
+            "categoryName": "파자마 하의"
+          },
+          {
+            "categoryName": "기타"
+          }
+        ]
+      },
+      {
+        "categoryName": "언더웨어",
+        "subCategories": [
+          {
+            "categoryName": "기능성"
+          },
+          {
+            "categoryName": "드로즈"
+          },
+          {
+            "categoryName": "런닝"
+          },
+          {
+            "categoryName": "브리프"
+          },
+          {
+            "categoryName": "세트"
+          },
+          {
+            "categoryName": "트렁크"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryName": "백",
+    "subCategories": [
+      {
+        "categoryName": "여성 가방",
+        "subCategories": [
+          {
+            "categoryName": "토트백"
+          },
+          {
+            "categoryName": "숄더백"
+          },
+          {
+            "categoryName": "미니백"
+          },
+          {
+            "categoryName": "크로스백"
+          },
+          {
+            "categoryName": "클러치/파우치"
+          },
+          {
+            "categoryName": "메신저백/벨트백"
+          },
+          {
+            "categoryName": "백팩"
+          },
+          {
+            "categoryName": "캔버스/에코백"
+          },
+          {
+            "categoryName": "캐리어/트래블백"
+          },
+          {
+            "categoryName": "기타"
+          }
+        ]
+      },
+      {
+        "categoryName": "남성 가방",
+        "subCategories": [
+          {
+            "categoryName": "백팩"
+          },
+          {
+            "categoryName": "메신저백/크로스백/슬링백"
+          },
+          {
+            "categoryName": "브리프케이스/클러치"
+          },
+          {
+            "categoryName": "토트백/쇼퍼백/에코백"
+          },
+          {
+            "categoryName": "캐리어/트래블백"
+          },
+          {
+            "categoryName": "기타"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryName": "슈즈",
+    "subCategories": [
+      {
+        "categoryName": "여성 슈즈",
+        "subCategories": [
+          {
+            "categoryName": "펌프스/힐"
+          },
+          {
+            "categoryName": "플랫/로퍼"
+          },
+          {
+            "categoryName": "부츠/워커/레인부츠"
+          },
+          {
+            "categoryName": "샌들"
+          },
+          {
+            "categoryName": "슬리퍼/뮬"
+          },
+          {
+            "categoryName": "스니커즈/슬립온"
+          }
+        ]
+      },
+      {
+        "categoryName": "남성 슈즈",
+        "subCategories": [
+          {
+            "categoryName": "구두"
+          },
+          {
+            "categoryName": "로퍼/드라이빙슈즈"
+          },
+          {
+            "categoryName": "워커/부츠"
+          },
+          {
+            "categoryName": "샌들/슬리퍼"
+          },
+          {
+            "categoryName": "스니커즈/슬립온"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryName": "액세서리",
+    "subCategories": [
+      {
+        "categoryName": "여성 액세서리",
+        "subCategories": [
+          {
+            "categoryName": "스카프/머플러/숄"
+          },
+          {
+            "categoryName": "장갑"
+          },
+          {
+            "categoryName": "퍼 아이템"
+          },
+          {
+            "categoryName": "벨트"
+          },
+          {
+            "categoryName": "양말/레깅스/스타킹"
+          },
+          {
+            "categoryName": "헤어 액세서리"
+          },
+          {
+            "categoryName": "모자"
+          },
+          {
+            "categoryName": "키링/참"
+          },
+          {
+            "categoryName": "기타 액세서리"
+          }
+        ]
+      },
+      {
+        "categoryName": "남성 액세서리",
+        "subCategories": [
+          {
+            "categoryName": "벨트/서스펜더"
+          },
+          {
+            "categoryName": "넥타이/행커칩/보타이"
+          },
+          {
+            "categoryName": "스카프/머플러"
+          },
+          {
+            "categoryName": "모자"
+          },
+          {
+            "categoryName": "장갑"
+          },
+          {
+            "categoryName": "양말/스포츠 양말/기타 액세서리"
+          }
+        ]
+      },
+      {
+        "categoryName": "여성 지갑",
+        "subCategories": [
+          {
+            "categoryName": "반지갑/카드지갑"
+          },
+          {
+            "categoryName": "중지갑/장지갑"
+          },
+          {
+            "categoryName": "동전지갑/파우치"
+          },
+          {
+            "categoryName": "키홀더/여권지갑"
+          }
+        ]
+      },
+      {
+        "categoryName": "남성 지갑",
+        "subCategories": [
+          {
+            "categoryName": "머니클립"
+          },
+          {
+            "categoryName": "반지갑/카드지갑"
+          },
+          {
+            "categoryName": "중지갑/장지갑"
+          },
+          {
+            "categoryName": "키홀더/여권지갑"
+          }
+        ]
+      },
+      {
+        "categoryName": "아이웨어",
+        "subCategories": [
+          {
+            "categoryName": "안경/안경테"
+          },
+          {
+            "categoryName": "선글라스"
+          },
+          {
+            "categoryName": "고글/스포츠 선글라스"
+          },
+          {
+            "categoryName": "케이스/기타"
+          }
+        ]
+      },
+      {
+        "categoryName": "와치",
+        "subCategories": [
+          {
+            "categoryName": "프리미엄"
+          },
+          {
+            "categoryName": "여성"
+          },
+          {
+            "categoryName": "남성"
+          },
+          {
+            "categoryName": "공용"
+          },
+          {
+            "categoryName": "스포츠/기능성 시계"
+          },
+          {
+            "categoryName": "스마트워치"
+          },
+          {
+            "categoryName": "워치와인더"
+          }
+        ]
+      },
+      {
+        "categoryName": "쥬얼리",
+        "subCategories": [
+          {
+            "categoryName": "순금",
+            "subCategories": [
+              {
+                "categoryName": "골드바"
+              },
+              {
+                "categoryName": "돌선물/돌반지"
+              },
+              {
+                "categoryName": "24K 팔찌"
+              },
+              {
+                "categoryName": "24K 목걸이"
+              },
+              {
+                "categoryName": "24K 귀걸이"
+              },
+              {
+                "categoryName": "24K 반지"
+              },
+              {
+                "categoryName": "기타 순금제품"
+              }
+            ]
+          },
+          {
+            "categoryName": "목걸이/펜던트",
+            "subCategories": [
+              {
+                "categoryName": "다이아몬드 목걸이"
+              },
+              {
+                "categoryName": "14/18K 목걸이"
+              },
+              {
+                "categoryName": "진주/원석 목걸이"
+              },
+              {
+                "categoryName": "실버 목걸이"
+              },
+              {
+                "categoryName": "패션 목걸이"
+              },
+              {
+                "categoryName": "펜던트"
+              }
+            ]
+          },
+          {
+            "categoryName": "팔찌",
+            "subCategories": [
+              {
+                "categoryName": "다이아몬드 팔찌"
+              },
+              {
+                "categoryName": "14/18K 팔찌"
+              },
+              {
+                "categoryName": "진주/원석 팔찌"
+              },
+              {
+                "categoryName": "실버 팔찌"
+              },
+              {
+                "categoryName": "패션 팔찌"
+              },
+              {
+                "categoryName": "참"
+              }
+            ]
+          },
+          {
+            "categoryName": "발찌",
+            "subCategories": [
+              {
+                "categoryName": "14/18K 발찌"
+              },
+              {
+                "categoryName": "실버 발찌"
+              },
+              {
+                "categoryName": "패션 발찌"
+              }
+            ]
+          },
+          {
+            "categoryName": "귀걸이",
+            "subCategories": [
+              {
+                "categoryName": "다이아몬드 귀걸이"
+              },
+              {
+                "categoryName": "14/18K 귀걸이"
+              },
+              {
+                "categoryName": "진주/원석 귀걸이"
+              },
+              {
+                "categoryName": "실버 귀걸이"
+              },
+              {
+                "categoryName": "패션 귀걸이"
+              },
+              {
+                "categoryName": "피어싱"
+              }
+            ]
+          },
+          {
+            "categoryName": "반지",
+            "subCategories": [
+              {
+                "categoryName": "다이아몬드 반지"
+              },
+              {
+                "categoryName": "14/18K 반지"
+              },
+              {
+                "categoryName": "진주/원석 반지"
+              },
+              {
+                "categoryName": "실버 반지"
+              },
+              {
+                "categoryName": "패션 반지"
+              }
+            ]
+          },
+          {
+            "categoryName": "쥬얼리 세트",
+            "subCategories": [
+              {
+                "categoryName": "다이아몬드 세트"
+              },
+              {
+                "categoryName": "14/18K 세트"
+              },
+              {
+                "categoryName": "진주/원석 세트"
+              },
+              {
+                "categoryName": "실버 세트"
+              },
+              {
+                "categoryName": "패션 쥬얼리 세트"
+              },
+              {
+                "categoryName": "쥬얼리함"
+              },
+              {
+                "categoryName": "기타"
+              }
+            ]
+          },
+          {
+            "categoryName": "남성 쥬얼리",
+            "subCategories": [
+              {
+                "categoryName": "남성 반지"
+              },
+              {
+                "categoryName": "남성 목걸이"
+              },
+              {
+                "categoryName": "남성 팔찌"
+              },
+              {
+                "categoryName": "남성 귀걸이"
+              }
+            ]
+          },
+          {
+            "categoryName": "기타"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryName": "스포츠/레저",
+    "subCategories": [
+      {
+        "categoryName": "캠핑/아웃도어",
+        "subCategories": [
+          {
+            "categoryName": "남성의류",
+            "subCategories": [
+              {
+                "categoryName": "아우터"
+              },
+              {
+                "categoryName": "상의"
+              },
+              {
+                "categoryName": "하의"
+              }
+            ]
+          },
+          {
+            "categoryName": "여성의류",
+            "subCategories": [
+              {
+                "categoryName": "아우터"
+              },
+              {
+                "categoryName": "상의"
+              },
+              {
+                "categoryName": "하의"
+              }
+            ]
+          },
+          {
+            "categoryName": "모자"
+          },
+          {
+            "categoryName": "양말/레깅스"
+          },
+          {
+            "categoryName": "장갑"
+          },
+          {
+            "categoryName": "기타 액세서리"
+          },
+          {
+            "categoryName": "등산장비/용품",
+            "subCategories": [
+              {
+                "categoryName": "배낭류"
+              },
+              {
+                "categoryName": "기타 가방류"
+              },
+              {
+                "categoryName": "남성용 등산/트레킹화"
+              },
+              {
+                "categoryName": "여성용 등산/트레킹화"
+              },
+              {
+                "categoryName": "텐트/타프"
+              },
+              {
+                "categoryName": "침낭/매트"
+              },
+              {
+                "categoryName": "테이블/체어"
+              },
+              {
+                "categoryName": "수납/정리"
+              },
+              {
+                "categoryName": "조명/랜턴"
+              },
+              {
+                "categoryName": "키친/테이블웨어"
+              },
+              {
+                "categoryName": "스토브/바비큐/화로대"
+              },
+              {
+                "categoryName": "텀블러/아이스박스"
+              },
+              {
+                "categoryName": "기타"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categoryName": "러닝/사이클",
+        "subCategories": [
+          {
+            "categoryName": "남성의류",
+            "subCategories": [
+              {
+                "categoryName": "아우터"
+              },
+              {
+                "categoryName": "상의"
+              },
+              {
+                "categoryName": "하의"
+              }
+            ]
+          },
+          {
+            "categoryName": "여성의류",
+            "subCategories": [
+              {
+                "categoryName": "아우터"
+              },
+              {
+                "categoryName": "상의"
+              },
+              {
+                "categoryName": "하의"
+              }
+            ]
+          },
+          {
+            "categoryName": "러닝화",
+            "subCategories": [
+              {
+                "categoryName": "남성용"
+              },
+              {
+                "categoryName": "여성용"
+              }
+            ]
+          },
+          {
+            "categoryName": "자전거",
+            "subCategories": [
+              {
+                "categoryName": "어린이 자전거"
+              },
+              {
+                "categoryName": "유아 자전거"
+              },
+              {
+                "categoryName": "기타"
+              }
+            ]
+          },
+          {
+            "categoryName": "장비/용품",
+            "subCategories": [
+              {
+                "categoryName": "헬멧/보호장비"
+              },
+              {
+                "categoryName": "장갑/양말"
+              },
+              {
+                "categoryName": "기타용품"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categoryName": "요가/실내운동",
+        "subCategories": [
+          {
+            "categoryName": "남성의류",
+            "subCategories": [
+              {
+                "categoryName": "아우터"
+              },
+              {
+                "categoryName": "상의"
+              },
+              {
+                "categoryName": "하의"
+              }
+            ]
+          },
+          {
+            "categoryName": "여성의류",
+            "subCategories": [
+              {
+                "categoryName": "아우터"
+              },
+              {
+                "categoryName": "상의"
+              },
+              {
+                "categoryName": "하의"
+              }
+            ]
+          },
+          {
+            "categoryName": "액세서리/용품",
+            "subCategories": [
+              {
+                "categoryName": "가방/파우치"
+              },
+              {
+                "categoryName": "기타 액세서리"
+              },
+              {
+                "categoryName": "매트/폼롤러/짐볼"
+              },
+              {
+                "categoryName": "밴드/링/마사지볼"
+              },
+              {
+                "categoryName": "기타용품"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categoryName": "헬스/기구운동",
+        "subCategories": [
+          {
+            "categoryName": "웨이트트레이닝"
+          },
+          {
+            "categoryName": "워킹/러닝머신"
+          },
+          {
+            "categoryName": "사이클/실내자전거"
+          },
+          {
+            "categoryName": "필라테스/스트레칭"
+          },
+          {
+            "categoryName": "기타 헬스용품"
+          }
+        ]
+      },
+      {
+        "categoryName": "수영",
+        "subCategories": [
+          {
+            "categoryName": "남성 스윔웨어",
+            "subCategories": [
+              {
+                "categoryName": "수영복"
+              },
+              {
+                "categoryName": "래쉬가드/비치웨어"
+              }
+            ]
+          },
+          {
+            "categoryName": "여성 스윔웨어",
+            "subCategories": [
+              {
+                "categoryName": "비키니/모노키니"
+              },
+              {
+                "categoryName": "원피스 수영복"
+              },
+              {
+                "categoryName": "래쉬가드/비치웨어"
+              }
+            ]
+          },
+          {
+            "categoryName": "액세서리/용품"
+          }
+        ]
+      },
+      {
+        "categoryName": "테니스",
+        "subCategories": [
+          {
+            "categoryName": "남성의류",
+            "subCategories": [
+              {
+                "categoryName": "아우터"
+              },
+              {
+                "categoryName": "상의"
+              },
+              {
+                "categoryName": "하의"
+              }
+            ]
+          },
+          {
+            "categoryName": "여성의류",
+            "subCategories": [
+              {
+                "categoryName": "아우터"
+              },
+              {
+                "categoryName": "상의"
+              },
+              {
+                "categoryName": "원피스/스커트"
+              },
+              {
+                "categoryName": "팬츠/레깅스"
+              }
+            ]
+          },
+          {
+            "categoryName": "액세서리"
+          },
+          {
+            "categoryName": "장비/용품"
+          }
+        ]
+      },
+      {
+        "categoryName": "스키",
+        "subCategories": [
+          {
+            "categoryName": "남성의류",
+            "subCategories": [
+              {
+                "categoryName": "아우터"
+              },
+              {
+                "categoryName": "상의"
+              },
+              {
+                "categoryName": "하의"
+              }
+            ]
+          },
+          {
+            "categoryName": "여성의류",
+            "subCategories": [
+              {
+                "categoryName": "아우터"
+              },
+              {
+                "categoryName": "상의"
+              },
+              {
+                "categoryName": "하의"
+              }
+            ]
+          },
+          {
+            "categoryName": "액세서리/용품"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryName": "골프",
+    "subCategories": [
+      {
+        "categoryName": "남성 골프웨어",
+        "subCategories": [
+          {
+            "categoryName": "아우터",
+            "subCategories": [
+              {
+                "categoryName": "다운/패딩"
+              },
+              {
+                "categoryName": "자켓/점퍼"
+              },
+              {
+                "categoryName": "베스트"
+              },
+              {
+                "categoryName": "아노락"
+              }
+            ]
+          },
+          {
+            "categoryName": "니트",
+            "subCategories": [
+              {
+                "categoryName": "가디건/집업"
+              },
+              {
+                "categoryName": "카라형/라운드·V넥"
+              },
+              {
+                "categoryName": "베스트"
+              },
+              {
+                "categoryName": "폴라/하프넥/반집업"
+              }
+            ]
+          },
+          {
+            "categoryName": "티셔츠",
+            "subCategories": [
+              {
+                "categoryName": "카라/폴로형"
+              },
+              {
+                "categoryName": "라운드/풀오버"
+              },
+              {
+                "categoryName": "스웻/후디"
+              },
+              {
+                "categoryName": "기타"
+              }
+            ]
+          },
+          {
+            "categoryName": "팬츠",
+            "subCategories": [
+              {
+                "categoryName": "긴바지"
+              },
+              {
+                "categoryName": "반바지"
+              },
+              {
+                "categoryName": "기타"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categoryName": "여성 골프웨어",
+        "subCategories": [
+          {
+            "categoryName": "아우터",
+            "subCategories": [
+              {
+                "categoryName": "다운/패딩"
+              },
+              {
+                "categoryName": "자켓/점퍼"
+              },
+              {
+                "categoryName": "베스트"
+              },
+              {
+                "categoryName": "아노락"
+              }
+            ]
+          },
+          {
+            "categoryName": "니트",
+            "subCategories": [
+              {
+                "categoryName": "가디건/집업"
+              },
+              {
+                "categoryName": "카라형/라운드·V넥"
+              },
+              {
+                "categoryName": "베스트"
+              },
+              {
+                "categoryName": "폴라/하프넥/반집업"
+              }
+            ]
+          },
+          {
+            "categoryName": "티셔츠",
+            "subCategories": [
+              {
+                "categoryName": "카라/폴로형"
+              },
+              {
+                "categoryName": "라운드/풀오버"
+              },
+              {
+                "categoryName": "스웻/후디"
+              },
+              {
+                "categoryName": "기타"
+              }
+            ]
+          },
+          {
+            "categoryName": "팬츠",
+            "subCategories": [
+              {
+                "categoryName": "긴바지"
+              },
+              {
+                "categoryName": "반바지"
+              },
+              {
+                "categoryName": "기타"
+              }
+            ]
+          },
+          {
+            "categoryName": "스커트"
+          },
+          {
+            "categoryName": "원피스"
+          }
+        ]
+      },
+      {
+        "categoryName": "골프클럽",
+        "subCategories": [
+          {
+            "categoryName": "드라이버"
+          },
+          {
+            "categoryName": "우드"
+          },
+          {
+            "categoryName": "유틸리티"
+          },
+          {
+            "categoryName": "아이언"
+          },
+          {
+            "categoryName": "웨지"
+          },
+          {
+            "categoryName": "퍼터"
+          },
+          {
+            "categoryName": "풀세트"
+          }
+        ]
+      },
+      {
+        "categoryName": "여성 골프슈즈",
+        "subCategories": [
+          {
+            "categoryName": "골프화"
+          },
+          {
+            "categoryName": "스니커즈"
+          },
+          {
+            "categoryName": "기타"
+          }
+        ]
+      },
+      {
+        "categoryName": "남성 골프슈즈",
+        "subCategories": [
+          {
+            "categoryName": "골프화"
+          },
+          {
+            "categoryName": "스니커즈"
+          }
+        ]
+      },
+      {
+        "categoryName": "골프 액세서리",
+        "subCategories": [
+          {
+            "categoryName": "모자",
+            "subCategories": [
+              {
+                "categoryName": "캡"
+              },
+              {
+                "categoryName": "바이저"
+              },
+              {
+                "categoryName": "버킷햇"
+              },
+              {
+                "categoryName": "퍼/니트모자"
+              }
+            ]
+          },
+          {
+            "categoryName": "장갑",
+            "subCategories": [
+              {
+                "categoryName": "남성용"
+              },
+              {
+                "categoryName": "여성용"
+              }
+            ]
+          },
+          {
+            "categoryName": "벨트",
+            "subCategories": [
+              {
+                "categoryName": "남성용"
+              },
+              {
+                "categoryName": "여성용"
+              }
+            ]
+          },
+          {
+            "categoryName": "스카프/워머",
+            "subCategories": [
+              {
+                "categoryName": "스카프"
+              },
+              {
+                "categoryName": "넥 워머"
+              },
+              {
+                "categoryName": "이어 워머"
+              }
+            ]
+          },
+          {
+            "categoryName": "양말/니삭스",
+            "subCategories": [
+              {
+                "categoryName": "양말"
+              },
+              {
+                "categoryName": "니삭스"
+              }
+            ]
+          },
+          {
+            "categoryName": "안경/선그라스"
+          },
+          {
+            "categoryName": "골프공"
+          },
+          {
+            "categoryName": "볼마커/티"
+          },
+          {
+            "categoryName": "거리측정기"
+          },
+          {
+            "categoryName": "커버/케이스류"
+          },
+          {
+            "categoryName": "기타"
+          }
+        ]
+      },
+      {
+        "categoryName": "골프백",
+        "subCategories": [
+          {
+            "categoryName": "캐디백/스탠드백"
+          },
+          {
+            "categoryName": "보스턴백/트롤리"
+          },
+          {
+            "categoryName": "파우치"
+          },
+          {
+            "categoryName": "기타가방"
+          },
+          {
+            "categoryName": "세트"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryName": "키즈",
+    "subCategories": [
+      {
+        "categoryName": "신생아 (0-12개월)",
+        "subCategories": [
+          {
+            "categoryName": "우주복/바디슈트/세트"
+          },
+          {
+            "categoryName": "모자/헤어밴드"
+          },
+          {
+            "categoryName": "턱받이/손수건/기타"
+          }
+        ]
+      },
+      {
+        "categoryName": "베이비 남아 (0-3세)",
+        "subCategories": [
+          {
+            "categoryName": "아우터",
+            "subCategories": [
+              {
+                "categoryName": "자켓"
+              },
+              {
+                "categoryName": "점퍼/바람막이"
+              }
+            ]
+          },
+          {
+            "categoryName": "티셔츠",
+            "subCategories": [
+              {
+                "categoryName": "롱슬리브"
+              },
+              {
+                "categoryName": "숏슬리브"
+              },
+              {
+                "categoryName": "카라형/폴로"
+              }
+            ]
+          },
+          {
+            "categoryName": "맨투맨/후디",
+            "subCategories": [
+              {
+                "categoryName": "맨투맨"
+              },
+              {
+                "categoryName": "집업"
+              }
+            ]
+          },
+          {
+            "categoryName": "셔츠",
+            "subCategories": [
+              {
+                "categoryName": "긴팔 셔츠"
+              },
+              {
+                "categoryName": "반팔 셔츠"
+              }
+            ]
+          },
+          {
+            "categoryName": "니트/가디건/조끼",
+            "subCategories": [
+              {
+                "categoryName": "니트/스웨터"
+              },
+              {
+                "categoryName": "가디건"
+              },
+              {
+                "categoryName": "조끼/베스트"
+              }
+            ]
+          },
+          {
+            "categoryName": "팬츠",
+            "subCategories": [
+              {
+                "categoryName": "조거/트랙/스웻"
+              },
+              {
+                "categoryName": "레깅스"
+              },
+              {
+                "categoryName": "캐주얼팬츠"
+              },
+              {
+                "categoryName": "캐주얼쇼츠"
+              }
+            ]
+          },
+          {
+            "categoryName": "데님팬츠",
+            "subCategories": [
+              {
+                "categoryName": "롱팬츠"
+              },
+              {
+                "categoryName": "숏팬츠"
+              }
+            ]
+          },
+          {
+            "categoryName": "우주복/바디슈트/점프슈트",
+            "subCategories": [
+              {
+                "categoryName": "우주복"
+              },
+              {
+                "categoryName": "바디슈트"
+              },
+              {
+                "categoryName": "점프슈트/오버롤"
+              }
+            ]
+          },
+          {
+            "categoryName": "상/하의 세트"
+          },
+          {
+            "categoryName": "실내복/잠옷/언더웨어",
+            "subCategories": [
+              {
+                "categoryName": "내의/실내복"
+              },
+              {
+                "categoryName": "언더웨어"
+              }
+            ]
+          },
+          {
+            "categoryName": "스포츠웨어/수영복",
+            "subCategories": [
+              {
+                "categoryName": "수영복/수영 용품"
+              }
+            ]
+          },
+          {
+            "categoryName": "한복/파티복/코스튬"
+          }
+        ]
+      },
+      {
+        "categoryName": "베이비 여아 (0-3세)",
+        "subCategories": [
+          {
+            "categoryName": "아우터",
+            "subCategories": [
+              {
+                "categoryName": "점프/바람막이"
+              }
+            ]
+          },
+          {
+            "categoryName": "티셔츠",
+            "subCategories": [
+              {
+                "categoryName": "롱슬리브"
+              },
+              {
+                "categoryName": "숏슬리브"
+              }
+            ]
+          },
+          {
+            "categoryName": "맨투맨/후디",
+            "subCategories": [
+              {
+                "categoryName": "맨투맨"
+              }
+            ]
+          },
+          {
+            "categoryName": "블라우스/셔츠",
+            "subCategories": [
+              {
+                "categoryName": "긴팔 블라우스/셔츠"
+              },
+              {
+                "categoryName": "반팔/7부/민소매 블라우스/셔츠"
+              }
+            ]
+          },
+          {
+            "categoryName": "니트/가디건/조끼",
+            "subCategories": [
+              {
+                "categoryName": "가디건"
+              },
+              {
+                "categoryName": "조끼/베스트"
+              }
+            ]
+          },
+          {
+            "categoryName": "팬츠",
+            "subCategories": [
+              {
+                "categoryName": "조거/트랙/스웻"
+              },
+              {
+                "categoryName": "레깅스"
+              },
+              {
+                "categoryName": "캐주얼팬츠"
+              },
+              {
+                "categoryName": "캐주얼쇼츠"
+              }
+            ]
+          },
+          {
+            "categoryName": "데님팬츠",
+            "subCategories": [
+              {
+                "categoryName": "롱팬츠"
+              }
+            ]
+          },
+          {
+            "categoryName": "우주복/바디슈트/점프슈트",
+            "subCategories": [
+              {
+                "categoryName": "우주복"
+              },
+              {
+                "categoryName": "바디슈트"
+              },
+              {
+                "categoryName": "점프슈트/오버롤"
+              }
+            ]
+          },
+          {
+            "categoryName": "원피스/스커트",
+            "subCategories": [
+              {
+                "categoryName": "긴팔 원피스"
+              },
+              {
+                "categoryName": "반팔/민소매 원피스"
+              }
+            ]
+          },
+          {
+            "categoryName": "상/하의 세트"
+          },
+          {
+            "categoryName": "스포츠웨어/수영복",
+            "subCategories": [
+              {
+                "categoryName": "수영복/수영 용품"
+              }
+            ]
+          },
+          {
+            "categoryName": "한복/파티복/코스튬"
+          }
+        ]
+      },
+      {
+        "categoryName": "남아 (4-16세)",
+        "subCategories": [
+          {
+            "categoryName": "아우터",
+            "subCategories": [
+              {
+                "categoryName": "자켓"
+              },
+              {
+                "categoryName": "점퍼/바람막이"
+              },
+              {
+                "categoryName": "트렌치/사파리"
+              },
+              {
+                "categoryName": "코트"
+              },
+              {
+                "categoryName": "패딩/다운"
+              }
+            ]
+          },
+          {
+            "categoryName": "티셔츠",
+            "subCategories": [
+              {
+                "categoryName": "롱슬리브"
+              },
+              {
+                "categoryName": "숏슬리브"
+              },
+              {
+                "categoryName": "슬리브리스"
+              },
+              {
+                "categoryName": "카라형/폴로"
+              }
+            ]
+          },
+          {
+            "categoryName": "맨투맨/후디",
+            "subCategories": [
+              {
+                "categoryName": "맨투맨"
+              },
+              {
+                "categoryName": "후디"
+              },
+              {
+                "categoryName": "집업"
+              }
+            ]
+          },
+          {
+            "categoryName": "셔츠"
+          },
+          {
+            "categoryName": "니트/가디건/조끼",
+            "subCategories": [
+              {
+                "categoryName": "니트/스웨터"
+              },
+              {
+                "categoryName": "가디건"
+              },
+              {
+                "categoryName": "조끼/베스트"
+              }
+            ]
+          },
+          {
+            "categoryName": "팬츠",
+            "subCategories": [
+              {
+                "categoryName": "조거/트랙/스웻"
+              },
+              {
+                "categoryName": "레깅스"
+              },
+              {
+                "categoryName": "캐주얼팬츠"
+              },
+              {
+                "categoryName": "스웻쇼츠"
+              },
+              {
+                "categoryName": "캐주얼쇼츠"
+              }
+            ]
+          },
+          {
+            "categoryName": "데님팬츠",
+            "subCategories": [
+              {
+                "categoryName": "롱팬츠"
+              },
+              {
+                "categoryName": "숏팬츠"
+              }
+            ]
+          },
+          {
+            "categoryName": "상/하의 세트"
+          },
+          {
+            "categoryName": "실내복/잠옷/언더웨어",
+            "subCategories": [
+              {
+                "categoryName": "잠옷/파자마"
+              },
+              {
+                "categoryName": "언더웨어"
+              }
+            ]
+          },
+          {
+            "categoryName": "스포츠웨어/수영복",
+            "subCategories": [
+              {
+                "categoryName": "스포츠웨어/스포츠용품"
+              },
+              {
+                "categoryName": "수영복/수영 용품"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categoryName": "여아 (4-16세)",
+        "subCategories": [
+          {
+            "categoryName": "아우터",
+            "subCategories": [
+              {
+                "categoryName": "자켓"
+              },
+              {
+                "categoryName": "점퍼/바람막이"
+              },
+              {
+                "categoryName": "트렌치/사파리"
+              },
+              {
+                "categoryName": "코트"
+              },
+              {
+                "categoryName": "패딩/다운"
+              },
+              {
+                "categoryName": "무스탕/Fur"
+              }
+            ]
+          },
+          {
+            "categoryName": "티셔츠",
+            "subCategories": [
+              {
+                "categoryName": "롱슬리브"
+              },
+              {
+                "categoryName": "숏슬리브"
+              },
+              {
+                "categoryName": "슬리브리스"
+              },
+              {
+                "categoryName": "카라형/폴로"
+              }
+            ]
+          },
+          {
+            "categoryName": "맨투맨/후디",
+            "subCategories": [
+              {
+                "categoryName": "맨투맨"
+              },
+              {
+                "categoryName": "후디"
+              },
+              {
+                "categoryName": "집업"
+              }
+            ]
+          },
+          {
+            "categoryName": "블라우스/셔츠",
+            "subCategories": [
+              {
+                "categoryName": "긴팔 블라우스/셔츠"
+              },
+              {
+                "categoryName": "반팔/7부 블라우스/셔츠"
+              },
+              {
+                "categoryName": "민소매 블라우스/셔츠"
+              }
+            ]
+          },
+          {
+            "categoryName": "니트/가디건/조끼",
+            "subCategories": [
+              {
+                "categoryName": "니트/스웨터"
+              },
+              {
+                "categoryName": "가디건"
+              },
+              {
+                "categoryName": "조끼/베스트"
+              }
+            ]
+          },
+          {
+            "categoryName": "팬츠",
+            "subCategories": [
+              {
+                "categoryName": "조거/트랙/스웻"
+              },
+              {
+                "categoryName": "레깅스"
+              },
+              {
+                "categoryName": "캐주얼팬츠"
+              },
+              {
+                "categoryName": "스웻쇼츠"
+              },
+              {
+                "categoryName": "캐주얼쇼츠"
+              }
+            ]
+          },
+          {
+            "categoryName": "데님팬츠",
+            "subCategories": [
+              {
+                "categoryName": "롱팬츠"
+              },
+              {
+                "categoryName": "숏팬츠"
+              }
+            ]
+          },
+          {
+            "categoryName": "원피스/스커트/점프슈트",
+            "subCategories": [
+              {
+                "categoryName": "긴팔 원피스"
+              },
+              {
+                "categoryName": "반팔/민소매 원피스"
+              },
+              {
+                "categoryName": "스커트"
+              },
+              {
+                "categoryName": "점프슈트/오버롤"
+              }
+            ]
+          },
+          {
+            "categoryName": "상/하의 세트"
+          },
+          {
+            "categoryName": "실내복/잠옷/언더웨어",
+            "subCategories": [
+              {
+                "categoryName": "잠옷/파자마"
+              },
+              {
+                "categoryName": "언더웨어"
+              }
+            ]
+          },
+          {
+            "categoryName": "스포츠웨어/수영복",
+            "subCategories": [
+              {
+                "categoryName": "수영복/수영 용품"
+              },
+              {
+                "categoryName": "스포츠웨어/스포츠 용품"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categoryName": "백/슈즈/액세서리",
+        "subCategories": [
+          {
+            "categoryName": "신발",
+            "subCategories": [
+              {
+                "categoryName": "운동화/구두"
+              },
+              {
+                "categoryName": "샌들/슬리퍼"
+              },
+              {
+                "categoryName": "부츠/장화"
+              }
+            ]
+          },
+          {
+            "categoryName": "가방/지갑",
+            "subCategories": [
+              {
+                "categoryName": "백팩"
+              },
+              {
+                "categoryName": "숄더백/크로스백/토트백"
+              }
+            ]
+          },
+          {
+            "categoryName": "모자/장갑",
+            "subCategories": [
+              {
+                "categoryName": "모자"
+              },
+              {
+                "categoryName": "장갑"
+              }
+            ]
+          },
+          {
+            "categoryName": "머플러/목도리"
+          },
+          {
+            "categoryName": "헤어 악세서리/선글라스/패션 잡화",
+            "subCategories": [
+              {
+                "categoryName": "헤어 악세서리"
+              },
+              {
+                "categoryName": "선글라스/안경테"
+              },
+              {
+                "categoryName": "시계/목걸이/팔찌/악세서리"
+              }
+            ]
+          },
+          {
+            "categoryName": "양말/타이즈"
+          },
+          {
+            "categoryName": "기타"
+          }
+        ]
+      },
+      {
+        "categoryName": "리빙/토이",
+        "subCategories": [
+          {
+            "categoryName": "목욕/위생용품",
+            "subCategories": [
+              {
+                "categoryName": "스킨/바디케이"
+              }
+            ]
+          },
+          {
+            "categoryName": "완구/교구",
+            "subCategories": [
+              {
+                "categoryName": "블록/작동 완구"
+              },
+              {
+                "categoryName": "인형"
+              }
+            ]
+          },
+          {
+            "categoryName": "식기"
+          },
+          {
+            "categoryName": "기타 용품"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryName": "라이프",
+    "subCategories": [
+      {
+        "categoryName": "디지털/가전",
+        "subCategories": [
+          {
+            "categoryName": "음향/영상가전",
+            "subCategories": [
+              {
+                "categoryName": "이어폰"
+              },
+              {
+                "categoryName": "헤드폰"
+              },
+              {
+                "categoryName": "스피커"
+              },
+              {
+                "categoryName": "턴테이블"
+              },
+              {
+                "categoryName": "TV/모니터"
+              },
+              {
+                "categoryName": "마이크"
+              },
+              {
+                "categoryName": "앰프/리시버"
+              },
+              {
+                "categoryName": "음향 주변기기"
+              }
+            ]
+          },
+          {
+            "categoryName": "카메라",
+            "subCategories": [
+              {
+                "categoryName": "디지털카메라"
+              },
+              {
+                "categoryName": "즉석/필름카메라"
+              },
+              {
+                "categoryName": "렌즈/렌즈용품"
+              },
+              {
+                "categoryName": "액션캠/드론"
+              },
+              {
+                "categoryName": "포토 프린터"
+              },
+              {
+                "categoryName": "케이스"
+              },
+              {
+                "categoryName": "기타 카메라 기기"
+              }
+            ]
+          },
+          {
+            "categoryName": "디지털/게임",
+            "subCategories": [
+              {
+                "categoryName": "컴퓨터/노트북"
+              },
+              {
+                "categoryName": "휴대폰"
+              },
+              {
+                "categoryName": "게임기/게임타이틀"
+              },
+              {
+                "categoryName": "마우스/키보드"
+              },
+              {
+                "categoryName": "PC주변기기"
+              },
+              {
+                "categoryName": "스마트워치/밴드"
+              },
+              {
+                "categoryName": "복합기/프린터/스캐너"
+              },
+              {
+                "categoryName": "디지털 액세서리"
+              },
+              {
+                "categoryName": "기타 디지털 기기"
+              }
+            ]
+          },
+          {
+            "categoryName": "주방가전",
+            "subCategories": [
+              {
+                "categoryName": "냉장고/와인셀러"
+              },
+              {
+                "categoryName": "가스레인지/인덕션"
+              },
+              {
+                "categoryName": "오븐/전자레인지"
+              },
+              {
+                "categoryName": "식기세척기/건조기"
+              },
+              {
+                "categoryName": "커피메이커/머신"
+              },
+              {
+                "categoryName": "에어프라이어/전기쿠커"
+              },
+              {
+                "categoryName": "토스터/와플메이커"
+              },
+              {
+                "categoryName": "전기밥솥"
+              },
+              {
+                "categoryName": "정수기"
+              },
+              {
+                "categoryName": "전기포트"
+              },
+              {
+                "categoryName": "믹서/착즙기"
+              },
+              {
+                "categoryName": "음식물처리기"
+              },
+              {
+                "categoryName": "수비드머신/진공포장기"
+              },
+              {
+                "categoryName": "기타 주방가전"
+              }
+            ]
+          },
+          {
+            "categoryName": "생활가전",
+            "subCategories": [
+              {
+                "categoryName": "세탁기/건조기"
+              },
+              {
+                "categoryName": "의류관리기"
+              },
+              {
+                "categoryName": "청소기"
+              },
+              {
+                "categoryName": "안마기/안마의자"
+              },
+              {
+                "categoryName": "다리미/보풀제거기"
+              },
+              {
+                "categoryName": "전동칫솔/구강세정기"
+              },
+              {
+                "categoryName": "멀티탭"
+              },
+              {
+                "categoryName": "기타 생활가전"
+              }
+            ]
+          },
+          {
+            "categoryName": "공기청정/계절가전",
+            "subCategories": [
+              {
+                "categoryName": "에어컨"
+              },
+              {
+                "categoryName": "공기청정기"
+              },
+              {
+                "categoryName": "가습기"
+              },
+              {
+                "categoryName": "선풍기"
+              },
+              {
+                "categoryName": "제습기"
+              },
+              {
+                "categoryName": "전기히터/온풍기"
+              },
+              {
+                "categoryName": "기타 계절가전"
+              }
+            ]
+          },
+          {
+            "categoryName": "이미용가전",
+            "subCategories": [
+              {
+                "categoryName": "드라이기"
+              },
+              {
+                "categoryName": "고데기/매직기"
+              },
+              {
+                "categoryName": "면도기"
+              },
+              {
+                "categoryName": "제모기"
+              },
+              {
+                "categoryName": "기타 이미용가전"
+              }
+            ]
+          },
+          {
+            "categoryName": "기타"
+          }
+        ]
+      },
+      {
+        "categoryName": "아트",
+        "subCategories": [
+          {
+            "categoryName": "오리지널 원화"
+          },
+          {
+            "categoryName": "아트 에디션"
+          },
+          {
+            "categoryName": "아트 포스터"
+          },
+          {
+            "categoryName": "아트 굿즈"
+          }
+        ]
+      },
+      {
+        "categoryName": "가구",
+        "subCategories": [
+          {
+            "categoryName": "침실 가구",
+            "subCategories": [
+              {
+                "categoryName": "침대"
+              },
+              {
+                "categoryName": "매트리스/토퍼"
+              },
+              {
+                "categoryName": "옷장/드레스룸"
+              },
+              {
+                "categoryName": "서랍장/협탁"
+              },
+              {
+                "categoryName": "화장대/거울"
+              }
+            ]
+          },
+          {
+            "categoryName": "거실 가구",
+            "subCategories": [
+              {
+                "categoryName": "소파"
+              },
+              {
+                "categoryName": "거실장"
+              },
+              {
+                "categoryName": "좌식/티테이블"
+              }
+            ]
+          },
+          {
+            "categoryName": "서재 가구",
+            "subCategories": [
+              {
+                "categoryName": "책상/세트"
+              },
+              {
+                "categoryName": "책장"
+              },
+              {
+                "categoryName": "서재의자"
+              },
+              {
+                "categoryName": "사무용품"
+              }
+            ]
+          },
+          {
+            "categoryName": "주방 가구",
+            "subCategories": [
+              {
+                "categoryName": "식탁/세트"
+              },
+              {
+                "categoryName": "식탁의자"
+              },
+              {
+                "categoryName": "주방 수납장"
+              }
+            ]
+          },
+          {
+            "categoryName": "키즈/소형 가구",
+            "subCategories": [
+              {
+                "categoryName": "키즈 침대/매트리스"
+              },
+              {
+                "categoryName": "키즈 옷장/서랍장"
+              },
+              {
+                "categoryName": "키즈 책상/의자"
+              },
+              {
+                "categoryName": "키즈 책장"
+              },
+              {
+                "categoryName": "스몰 테이블"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categoryName": "조명",
+        "subCategories": [
+          {
+            "categoryName": "펜던트 조명"
+          },
+          {
+            "categoryName": "벽조명"
+          },
+          {
+            "categoryName": "플로어 조명"
+          },
+          {
+            "categoryName": "데스크/포터블 조명"
+          },
+          {
+            "categoryName": "무드등/장식조명"
+          }
+        ]
+      },
+      {
+        "categoryName": "키친/다이닝",
+        "subCategories": [
+          {
+            "categoryName": "조리도구/도마/칼"
+          },
+          {
+            "categoryName": "식기"
+          },
+          {
+            "categoryName": "수저/쟁반/매트"
+          },
+          {
+            "categoryName": "컵/잔/물병"
+          },
+          {
+            "categoryName": "디저트/스낵용품"
+          },
+          {
+            "categoryName": "냄비/솥/팬"
+          },
+          {
+            "categoryName": "채반/볼"
+          },
+          {
+            "categoryName": "밀폐용기"
+          },
+          {
+            "categoryName": "도시락/보온병/가방"
+          },
+          {
+            "categoryName": "주방수납"
+          },
+          {
+            "categoryName": "주방수예/소품/청소"
+          },
+          {
+            "categoryName": "커피/와인/베이커리용품"
+          },
+          {
+            "categoryName": "세트"
+          }
+        ]
+      },
+      {
+        "categoryName": "리빙",
+        "subCategories": [
+          {
+            "categoryName": "욕실/클리닝",
+            "subCategories": [
+              {
+                "categoryName": "타월/매트/가운"
+              },
+              {
+                "categoryName": "샤워볼/샤워타월"
+              },
+              {
+                "categoryName": "구강/세안/위생용품"
+              },
+              {
+                "categoryName": "욕실소품/잡화"
+              },
+              {
+                "categoryName": "욕실수납/정리"
+              },
+              {
+                "categoryName": "세탁/건조용품"
+              },
+              {
+                "categoryName": "청소용품"
+              },
+              {
+                "categoryName": "세트"
+              }
+            ]
+          },
+          {
+            "categoryName": "침구/패브릭",
+            "subCategories": [
+              {
+                "categoryName": "홑/겹이불/담요"
+              },
+              {
+                "categoryName": "누비/차렵이불"
+              },
+              {
+                "categoryName": "패드/스프레드"
+              },
+              {
+                "categoryName": "베개/베개커버"
+              },
+              {
+                "categoryName": "이불커버"
+              },
+              {
+                "categoryName": "매트리스커버"
+              },
+              {
+                "categoryName": "이불솜/베개솜"
+              },
+              {
+                "categoryName": "방석/쿠션"
+              },
+              {
+                "categoryName": "러그/매트"
+              },
+              {
+                "categoryName": "거실화"
+              },
+              {
+                "categoryName": "세트"
+              }
+            ]
+          },
+          {
+            "categoryName": "수납/정리",
+            "subCategories": [
+              {
+                "categoryName": "옷장 수납"
+              },
+              {
+                "categoryName": "화장대 수납"
+              },
+              {
+                "categoryName": "데스크 수납"
+              },
+              {
+                "categoryName": "선반/현관 수납"
+              },
+              {
+                "categoryName": "수납/세탁 바구니"
+              },
+              {
+                "categoryName": "다용도 수납"
+              }
+            ]
+          },
+          {
+            "categoryName": "홈데코",
+            "subCategories": [
+              {
+                "categoryName": "금고"
+              },
+              {
+                "categoryName": "액자"
+              },
+              {
+                "categoryName": "시계"
+              },
+              {
+                "categoryName": "거울"
+              },
+              {
+                "categoryName": "디퓨저/방향제"
+              },
+              {
+                "categoryName": "캔들/캔들홀더"
+              },
+              {
+                "categoryName": "화병/조화"
+              },
+              {
+                "categoryName": "디자인 소품"
+              }
+            ]
+          },
+          {
+            "categoryName": "여행소품/문구",
+            "subCategories": [
+              {
+                "categoryName": "캐리어/여행가방"
+              },
+              {
+                "categoryName": "여행 파우치"
+              },
+              {
+                "categoryName": "리필용기/여행소품"
+              },
+              {
+                "categoryName": "공책/수첩/카드"
+              },
+              {
+                "categoryName": "필기류"
+              },
+              {
+                "categoryName": "기타 소품"
+              }
+            ]
+          },
+          {
+            "categoryName": "꽃/식물",
+            "subCategories": [
+              {
+                "categoryName": "생화"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categoryName": "웰빙/푸드",
+        "subCategories": [
+          {
+            "categoryName": "건강기능식품"
+          },
+          {
+            "categoryName": "커피/티/세트"
+          },
+          {
+            "categoryName": "기타"
+          }
+        ]
+      },
+      {
+        "categoryName": "반려동물",
+        "subCategories": [
+          {
+            "categoryName": "사료/간식"
+          },
+          {
+            "categoryName": "패션"
+          },
+          {
+            "categoryName": "산책/외출용품"
+          },
+          {
+            "categoryName": "하우스/리빙"
+          },
+          {
+            "categoryName": "식기"
+          },
+          {
+            "categoryName": "장난감"
+          },
+          {
+            "categoryName": "미용/기타"
+          }
+        ]
+      },
+      {
+        "categoryName": "취미",
+        "subCategories": [
+          {
+            "categoryName": "블록완구"
+          },
+          {
+            "categoryName": "피규어"
+          }
+        ]
+      }
+    ]
+  }
+]
