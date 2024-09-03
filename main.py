@@ -1,12 +1,16 @@
 import os
 from perfume import scrape_category
 # from beauty import beauty
+
 from categories.여성의류 import 여성의류
+
 
 def main():
     # 각 카테고리에 대해 크롤링을 실행하고 데이터를 저장합니다.
     # for category in beauty:
+
     for category in 여성의류:
+
         # 디렉토리 경로를 카테고리 구조에 따라 유동적으로 생성
         directory_parts = [
             category['top_category_name'].replace("/", "_"),
